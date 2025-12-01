@@ -1,7 +1,0 @@
-17:29:02: Activating Swift for Visual Studio Code...
-17:29:03: SourceKit-LSP setup
-17:29:03: SwiftTest: add: /home/mcantek/Projects/SwiftTest
-17:29:03: SwiftTest: Resolving Dependencies: starting ... 
-17:29:03: Exec Task: (SwiftTest) swift package resolve
-17:29:03: SwiftTest: focus: /home/mcantek/Projects/SwiftTest
-17:29:04: SwiftTest: Resolving Dependencies: ... done.

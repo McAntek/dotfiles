@@ -1,8 +1,0 @@
-2025-12-01 16:56:50.572 [info] Started local extension host with pid 10099.
-2025-12-01 16:56:51.690 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
-    at t (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:2745)
-    at tIt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:3495)
-2025-12-01 16:56:53.632 [info] [perf] Render performance baseline is 35ms
-2025-12-01 16:58:22.817 [warning] Settings pattern "mcp" doesn't match any settings
-2025-12-01 16:58:22.817 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: commands.filters, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
-2025-12-01 16:58:39.082 [warning] Settings pattern "mcp" doesn't match any settings

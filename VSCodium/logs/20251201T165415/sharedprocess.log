@@ -1,5 +1,0 @@
-2025-12-01 16:55:38.439 [info] Getting Manifest... drcika.apc-extension
-2025-12-01 16:55:39.079 [info] Installing extension: drcika.apc-extension {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mcantek/.vscode-oss/extensions/extensions.json","path":"/home/mcantek/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.17075","date":"2025-10-21T20:24:03.344Z"}}
-2025-12-01 16:55:39.772 [info] Extracted extension to file:///home/mcantek/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal: drcika.apc-extension
-2025-12-01 16:55:39.788 [info] Renamed to /home/mcantek/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal
-2025-12-01 16:55:39.818 [info] Extension installed successfully: drcika.apc-extension vscode-userdata:/home/mcantek/.vscode-oss/extensions/extensions.json
