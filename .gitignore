@@ -1,0 +1,11 @@
+/**
+
+!*/
+
+!.gitignore
+
+!anyrun/**
+!fish/
+!waybar/
+!kitty/
+!hypr/
