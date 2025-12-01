@@ -1,0 +1,43 @@
+2025-12-01 16:58:51.728 [info] Extension host with pid 10901 started
+2025-12-01 16:58:51.904 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-01 16:58:51.976 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-01 16:58:51.983 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-01 16:58:52.095 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-01 16:58:52.250 [info] Eager extensions activated
+2025-12-01 16:58:52.253 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 16:58:52.257 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 16:58:52.299 [info] ExtensionService#_doActivateExtension drcika.apc-extension, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 16:58:52.309 [error] Activating extension drcika.apc-extension failed due to an error:
+2025-12-01 16:58:52.309 [error] TypeError: Cannot read properties of undefined (reading 'filename')
+	at Object.<anonymous> (/home/mcantek/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal/dist/patch.js:17:52)
+	at Module._compile (node:internal/modules/cjs/loader:1714:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6572)
+	at t._load (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:28862)
+	at i._load (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:27587)
+	at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at require (node:internal/modules/helpers:147:16)
+	at Object.<anonymous> (/home/mcantek/.vscode-oss/extensions/drcika.apc-extension-0.4.1-universal/dist/extension.js:7:17)
+	at Module._compile (node:internal/modules/cjs/loader:1714:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6572)
+	at t._load (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:28862)
+	at i._load (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:203:27587)
+	at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at require (node:internal/modules/helpers:147:16)
+	at SY._doLoadModule (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:242:1632)
+2025-12-01 16:59:03.272 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 16:59:03.289 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 16:59:03.417 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 16:59:04.733 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-01 16:59:04.745 [info] Extension host with pid 10901 exiting with code 0

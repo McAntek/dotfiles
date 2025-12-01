@@ -1,0 +1,6 @@
+2025-12-01 16:40:58.903 [info] Extension host with pid 1619 started
+2025-12-01 16:40:58.903 [info] Skipping acquiring lock for /home/mcantek/.config/VSCodium/User/workspaceStorage/66ede25334d280497ad22313c8be2726.
+2025-12-01 16:40:59.289 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-01 16:40:59.342 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-01 16:40:59.598 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-01 16:40:59.600 [info] Extension host with pid 1619 exiting with code 0

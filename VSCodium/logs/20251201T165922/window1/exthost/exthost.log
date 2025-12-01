@@ -1,0 +1,51 @@
+2025-12-01 16:59:25.403 [info] Extension host with pid 11441 started
+2025-12-01 16:59:25.432 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-01 16:59:25.615 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-01 16:59:25.623 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-01 16:59:25.732 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-01 16:59:25.878 [info] Eager extensions activated
+2025-12-01 16:59:25.880 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 16:59:25.884 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 17:00:24.054 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 17:00:31.665 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-01 17:01:13.609 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:01:13.626 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:01:13.755 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:04:09.846 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-01 17:04:09.865 [info] Extension host with pid 11441 exiting with code 0
+2025-12-01 17:04:12.029 [info] Extension host with pid 22514 started
+2025-12-01 17:04:12.029 [info] Skipping acquiring lock for /home/mcantek/.config/VSCodium/User/workspaceStorage/9a4abbdd9e1e2d06e44cc5de916202d9.
+2025-12-01 17:04:12.132 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-12-01 17:04:12.151 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-01 17:04:12.274 [info] Eager extensions activated
+2025-12-01 17:04:12.276 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 17:04:12.281 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 17:04:29.107 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-12-01 17:04:29.254 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 17:04:29.404 [info] ExtensionService#_doActivateExtension sswg.swift-lang, startup: false, activationEvent: 'workspaceContains:Package.swift'
+2025-12-01 17:04:29.751 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-01 17:04:29.911 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-01 17:09:50.063 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:09:50.076 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:09:50.164 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:09:53.283 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-01 17:09:53.301 [info] Extension host with pid 22514 exiting with code 0
+2025-12-01 17:09:55.011 [info] Extension host with pid 60400 started
+2025-12-01 17:09:55.011 [info] Skipping acquiring lock for /home/mcantek/.config/VSCodium/User/workspaceStorage/9a4abbdd9e1e2d06e44cc5de916202d9.
+2025-12-01 17:09:55.036 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-01 17:09:55.043 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: true, activationEvent: 'workspaceContains:Package.swift', root cause: sswg.swift-lang
+2025-12-01 17:09:55.084 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-01 17:09:55.161 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-01 17:09:55.165 [info] ExtensionService#_doActivateExtension sswg.swift-lang, startup: true, activationEvent: 'workspaceContains:Package.swift'
+2025-12-01 17:09:55.468 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-01 17:09:55.555 [info] Eager extensions activated
+2025-12-01 17:09:55.585 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 17:09:55.588 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-01 17:09:55.735 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-01 17:09:56.465 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-01 17:09:59.498 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:09:59.505 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:09:59.545 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-01 17:10:57.179 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-12-01 17:11:36.112 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-01 17:11:36.131 [info] Extension host with pid 60400 exiting with code 0

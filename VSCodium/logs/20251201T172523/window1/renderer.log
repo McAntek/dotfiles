@@ -1,0 +1,7 @@
+2025-12-01 17:25:24.283 [info] Started local extension host with pid 1992.
+2025-12-01 17:25:25.478 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
+    at t (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:2745)
+    at tIt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:3495)
+2025-12-01 17:25:27.063 [info] [perf] Render performance baseline is 15ms
+2025-12-01 17:25:32.290 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-12-01 17:25:33.976 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

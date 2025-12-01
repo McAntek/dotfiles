@@ -1,0 +1,10 @@
+[5:18:21 PM] 🟥🟫🟪 SwiftPM log for /home/mcantek/Projects/SwiftTest
+[5:18:21 PM] 🟥🟫🟪 [debug]: resolving and updating 'Package.resolved'
+[5:18:21 PM] 🟥🟫🟪 [debug]: evaluating manifest for 'swifttest' v. unknown
+[5:18:22 PM] 🟪🟨🟫 Preparing SwiftTest
+🟪🟨🟫 /usr/lib/swift/bin/swift build --package-path /home/mcantek/Projects/SwiftTest --scratch-path /home/mcantek/Projects/SwiftTest/.build/index-build --disable-index-store --target SwiftTest -c debug --experimental-prepare-for-indexing
+[5:18:23 PM] 🟪🟨🟫 [0/1] Planning build
+[5:18:23 PM] 🟪🟨🟫 Building for debugging...
+[5:18:23 PM] 🟪🟨🟫 [0/1] Write swift-version-5BD8B568FD16BF8B.txt
+[5:18:23 PM] 🟪🟨🟫 Build of target: 'SwiftTest' complete! (0.12s)
+[5:18:23 PM] 🟪🟨🟫 Finished with exit code 0 in 0.332671312 seconds

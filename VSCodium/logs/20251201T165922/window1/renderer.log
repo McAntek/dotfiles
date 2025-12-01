@@ -1,0 +1,25 @@
+2025-12-01 16:59:24.066 [warning] Settings pattern "mcp" doesn't match any settings
+2025-12-01 16:59:24.067 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: commands.filters, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-12-01 16:59:24.396 [info] Started local extension host with pid 11441.
+2025-12-01 16:59:25.492 [warning] Settings pattern "mcp" doesn't match any settings
+2025-12-01 16:59:26.722 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
+    at t (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:2745)
+    at tIt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:3495)
+2025-12-01 16:59:27.281 [warning] Settings pattern "mcp" doesn't match any settings
+2025-12-01 16:59:29.365 [info] [perf] Render performance baseline is 50ms
+2025-12-01 16:59:29.458 [warning] Settings pattern "mcp" doesn't match any settings
+2025-12-01 17:00:24.644 [warning] Settings pattern "mcp" doesn't match any settings
+2025-12-01 17:01:15.976 [warning] Settings pattern "mcp" doesn't match any settings
+2025-12-01 17:04:04.223 [error] [Extension Host] (node:11441) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-01 17:04:10.975 [info] Started local extension host with pid 22514.
+2025-12-01 17:04:11.427 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-01 17:04:11.841 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
+    at t (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:2745)
+    at tIt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:3495)
+2025-12-01 17:04:13.990 [info] [perf] Render performance baseline is 52ms
+2025-12-01 17:09:54.251 [info] Started local extension host with pid 60400.
+2025-12-01 17:09:55.132 [error] Cannot read properties of undefined (reading 'extensionId'): TypeError: Cannot read properties of undefined (reading 'extensionId')
+    at t (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:2745)
+    at tIt.recommendRemoteExtensionIfNeeded (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:4070:3495)
+2025-12-01 17:09:57.202 [info] [perf] Render performance baseline is 15ms
